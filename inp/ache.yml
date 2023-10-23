@@ -68,7 +68,7 @@ target_storage.visited_page_limit: 10000000
 # Store only pages that contain texts in languages of interest using lingua
 target_storage.language_detection_enabled: true
 # Languages allowed
-target_storage.languages: ["SPANISH", "GALICIAN"]
+target_storage.languages: ["SPANISH", "CATALAN"]
 
 #
 # Configurations for Link Storage
